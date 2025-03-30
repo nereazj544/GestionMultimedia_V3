@@ -1,59 +1,88 @@
-# GestionSPLVProyecto
+<p align="center">
+    <img src="logo.png" alt="logo_Gestion_Multimedia">
+</p>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+<br>
+<p align="center">
 
-## Development server
+</p>
+<br>
 
-To start a local development server, run:
+<br>
+<p align="center" font-size="30px">
+「  🦁 ; こんにちは ⲇ ⲉ⳽ⲧⲉ ⲃⳑⲟⳋ 」
+</p>
+<br>
 
-```bash
-ng serve
-```
+<br>
+<p align="center">
+☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★ ・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★
+</p>
+<br>
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### TABLA DE CONETIDOS
+<details>
 
-## Code scaffolding
+1. [📌 Descripcion General](#-descripción-general)
+2. [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+3. [⚙️ Instalación](#️-instalación)
+    - [💻 Lista de comandos](#-ˏˋ--lista-de-comandos-ˊˎ-)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+</details>
 
-```bash
-ng generate component component-name
-```
+<br>
+<p align="center">
+☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★ ・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★・。。・゜゜・。。・ ☆゜・。。・゜゜・。。・゜★
+</p>
+<br>
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+<br>
+<br>
+<p align="center">
+<img height="90px" width="100%" src="https://i.pinimg.com/736x/7f/6d/95/7f6d95a485791f905b5c94e31054d460.jpg" >
+</p>
+<br>
+<br>
 
-```bash
-ng generate --help
-```
+# 📌 Descripción General
 
-## Building
+Este proyecto ha sido diseñado p
 
-To build the project run:
 
-```bash
-ng build
-```
+<br>
+<br>
+<p align="center">
+<img height="90px" width="100%" src="https://i.pinimg.com/736x/aa/55/41/aa5541d265687d1fb50d15e6088013d6.jpg" >
+</p>
+<br>
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+# 🛠️ Tecnologías Utilizadas
 
-## Running unit tests
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
 
-```bash
-ng test
-```
+<br>
+<br>
 
-## Running end-to-end tests
+<p align="center">
+<img  height="90px" width="100%" src="https://i.pinimg.com/736x/35/cd/54/35cd544a8b4bde382edafa48c8c7795f.jpg" alt="separador1">
+</p>
+<br>
 
-For end-to-end (e2e) testing, run:
+# ⚙️ Instalación
 
-```bash
-ng e2e
-```
+<br>
+<p align="center">
+<img  height="90px" width="100%"   src="https://i.pinimg.com/736x/ff/18/08/ff180896bf024353d41301ca2e623603.jpg" alt="separador1">
+</p>
+<br>
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+<br>
 
-## Additional Resources
+##  -ˏˋ 💻 Lista de comandos ˊˎ-
+Todos los comandos se ejacutan desde la raiz del proyecto, desde una terminal:
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+| Comandos                  | Acciones                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Instalar dependencias                            |
+| `npm install`             |                                                  |
+| `npm install`             |  |
