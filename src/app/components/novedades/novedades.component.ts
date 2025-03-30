@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ReleasesService } from '../../services/releases.service';
+import { ReleasesService } from '../../service/releases.service';
 import { CommonModule } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
 

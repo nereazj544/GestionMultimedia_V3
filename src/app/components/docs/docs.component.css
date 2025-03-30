@@ -1,0 +1,18 @@
+* {
+    list-style: none;
+}
+
+
+.divcont {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.ref {
+    margin-top: 30rem;
+}
+
+.der {
+    margin-left: 30px;
+}

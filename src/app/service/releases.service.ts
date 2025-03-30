@@ -19,23 +19,6 @@ interface Release {
 export class ReleasesService {
     private readonly GOOGLE_BOOKS_API = 'https://www.googleapis.com/books/v1/volumes';
     private releases: Release[] = [
-        {
-            id: 2,
-            title: "Final Fantasy VII Rebirth",
-            releaseDate: new Date('2024-02-29'),
-            type: "Videojuegos",
-            platform: "PLAYSTATION",
-            imageUrl: "https://picsum.photos/200/300?random=2",
-            description: "Continue Cloud's journey in this reimagined classic."
-        },
-        {
-            id: 3,
-            title: "House of the Dragon S2",
-            releaseDate: new Date('2024-06-01'),
-            type: "Series",
-            imageUrl: "https://picsum.photos/200/300?random=3",
-            description: "The Targaryen civil war continues in this epic series."
-        }
     ];
 
     constructor(private http: HttpClient) { }
